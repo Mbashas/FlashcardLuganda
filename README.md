@@ -2,13 +2,16 @@
 language learning app for dialects in Uganda that presents flashcards with vocabulary words and their translations, helping users practice and memorize new words in various languages.
 
 1.What is the purpose of your project?
+
 The purpose of my project is to create an app that can assist foreigners in Uganda to learn the basics of lungada. The aim is to help them with their daily activities and improve their understanding of the language. 
 
 2. What problem does your project solve or address?
+
 My main goal is to help foreigners communicate better with locals in Uganda. I want to improve their language skills so they can become part of the community and access services easily, even if they don't speak the language well.
 
 3. What are the key features and functionalities of your project?
-the main features of this app is the ability to adjust the language proficiency level based on the user's performance in learning the language. Additionally, the app provides daily reminders to learn a new word and maintain a streak of learning. The app also translates the language to the user's primary language, which they specified when first signing up for the app.
+
+The main features of this app is the ability to adjust the language proficiency level based on the user's performance in learning the language. Additionally, the app provides daily reminders to learn a new word and maintain a streak of learning. The app also translates the language to the user's primary language, which they specified when first signing up for the app.
 
 4. What technologies or programming languages are used in your project?
 I will be using Html, Css and Javascript.
