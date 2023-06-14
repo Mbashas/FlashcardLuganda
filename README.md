@@ -1,5 +1,6 @@
 # FlashcardLuganda
 language learning app for dialects in Uganda that presents flashcards with vocabulary words and their translations, helping users practice and memorize new words in various languages.
+
 1.What is the purpose of your project?
 The purpose of my project is to create an app that can assist foreigners in Uganda to learn the basics of lungada. The aim is to help them with their daily activities and improve their understanding of the language. 
 
